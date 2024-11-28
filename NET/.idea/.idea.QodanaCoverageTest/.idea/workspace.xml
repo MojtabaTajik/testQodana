@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b287155d-27bb-4af6-a28d-f090b075812b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QodanaCoverageTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QodanaCoverageTest/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QodanaCoverageTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QodanaCoverageTest/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QodanaCoverageTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QodanaCoverageTest.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/Class2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/Enum1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/Interface1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/NotInReportClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/QodanaCoverageTest.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/bin/Debug/net7.0/QodanaCoverageTest.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/bin/Debug/net7.0/QodanaCoverageTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/bin/Debug/net7.0/QodanaCoverageTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/ref/QodanaCoverageTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/refint/QodanaCoverageTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/QodanaCoverageTest.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/QodanaCoverageTest.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/QodanaCoverageTest.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestProject/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/UnitTestProject.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/Usings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/NUnit3.TestAdapter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/NUnit3.TestAdapter.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/NuGet.Frameworks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/QodanaCoverageTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/QodanaCoverageTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/UnitTestProject.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/UnitTestProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/UnitTestProject.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/UnitTestProject.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/nunit.engine.api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/nunit.engine.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/nunit.engine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/testcentric.engine.metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/testhost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTest.294DD5B1.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/UnitTestProject.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/ref/UnitTestProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/Debug/net7.0/refint/UnitTestProject.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/UnitTestProject.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/UnitTestProject.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/UnitTestProject.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestProject/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MojtabaTajik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MojtabaTajik/testQodana.git&quot;,
+    &quot;accountId&quot;: &quot;15202b63-330c-499a-b562-261a14552d26&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/project.assets.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/moji/RiderProjects/testQodana/NET/obj/Debug/net7.0/QodanaCoverageTest.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TestProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/moji/RiderProjects/testQodana/NET/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pUJ04493Xf4zkX5VV7ieFbUa3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b287155d-27bb-4af6-a28d-f090b075812b" name="Changes" comment="" />
+      <created>1732814493849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732814493849</updated>
+      <workItem from="1732814494996" duration="2480000" />
+      <workItem from="1732818829409" duration="1107000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1732814522809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732814522809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sdd">
+      <option name="closed" value="true" />
+      <created>1732817358384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732817358384</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sdsd">
+      <option name="closed" value="true" />
+      <created>1732818906052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732818906052</updated>
+    </task>
+    <task id="LOCAL-00004" summary="move to src and test">
+      <option name="closed" value="true" />
+      <created>1732819657426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732819657426</updated>
+    </task>
+    <task id="LOCAL-00005" summary="move to src and test">
+      <option name="closed" value="true" />
+      <created>1732819668659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732819668659</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix">
+      <option name="closed" value="true" />
+      <created>1732819799624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732819799624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="test" />
+    <MESSAGE value="sdd" />
+    <MESSAGE value="sdsd" />
+    <MESSAGE value="move to src and test" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
