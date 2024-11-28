@@ -33,14 +33,14 @@ jobs:
         run: dotnet build
 
       - name: Run tests with code coverage
-        run: dotnet test /p:CollectCoverage=true /p:CoverletOutput=../.qodana/code-coverage/ /p:CoverletOutputFormat=lcov
+        run: dotnet test /p:CollectCoverage=true /p:CoverletOutput=./src/TestProject/.qodana/code-coverage/ /p:CoverletOutputFormat=lcov
         working-directory: test/UnitTestProject
 
       - name: Archive coverage data
         uses: actions/upload-artifact@v4
         with:
           name: net-coverage-data
-          path: test/.qodana/code-coverage
+          path: ./src/TestProject/.qodana/code-coverage
 
       - name: Qodana Scan
         uses: JetBrains/qodana-action@main
