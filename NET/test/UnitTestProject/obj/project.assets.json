@@ -3902,12 +3902,14 @@
     },
     "QodanaCoverageTest/1.0.0": {
       "type": "project",
-      "path": "../TestProject/QodanaCoverageTest.csproj",
-      "msbuildProject": "../TestProject/QodanaCoverageTest.csproj"
+      "path": "../../src/TestProject/QodanaCoverageTest.csproj",
+      "msbuildProject": "../../src/TestProject/QodanaCoverageTest.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
+      "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
@@ -3921,11 +3923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/UnitTestProject.csproj",
+      "projectUniqueName": "/Users/moji/RiderProjects/testQodana/NET/test/UnitTestProject/UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/UnitTestProject.csproj",
+      "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/UnitTestProject/UnitTestProject.csproj",
       "packagesPath": "/Users/moji/.nuget/packages/",
-      "outputPath": "/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/",
+      "outputPath": "/Users/moji/RiderProjects/testQodana/NET/test/UnitTestProject/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
@@ -3941,11 +3943,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/moji/RiderProjects/testQodana/NET/QodanaCoverageTest.csproj": {
-              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/QodanaCoverageTest.csproj"
+            "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj": {
+              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj"
             },
-            "/Users/moji/RiderProjects/testQodana/NET/TestProject/QodanaCoverageTest.csproj": {
-              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/TestProject/QodanaCoverageTest.csproj"
+            "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj": {
+              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj"
+            },
+            "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj": {
+              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj"
             }
           }
         }
@@ -4013,6 +4018,24 @@
     }
   },
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",

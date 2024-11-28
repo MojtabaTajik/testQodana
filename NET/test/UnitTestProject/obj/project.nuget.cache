@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhJmpLlXQ3E=",
-  "success": true,
-  "projectFilePath": "/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/UnitTestProject.csproj",
+  "dgSpecHash": "40muuk4QotU=",
+  "success": false,
+  "projectFilePath": "/Users/moji/RiderProjects/testQodana/NET/test/UnitTestProject/UnitTestProject.csproj",
   "expectedPackageFiles": [
     "/Users/moji/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/moji/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
@@ -50,10 +50,28 @@
     "/Users/moji/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "/Users/moji/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
     "/Users/moji/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
-    "/Users/moji/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/Users/moji/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512"
+    "/Users/moji/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/moji/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",
