@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7967b1e-302b-4ea5-b647-314a85b0ecfa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../GO/go-test-coverage/coverage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GO/go-test-coverage/coverage_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GO/go-test-coverage/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GO/go-test-coverage/not_covered.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/FooCls.test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/FooCls.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/jest/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/gradle/src/test/kotlin/MainTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/intellij-coverage-agent/maven/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/gradle/src/test/kotlin/MainTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JVM/jacoco/maven/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotInReportClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QodanaCoverageTest.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QodanaCoverageTest.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestProject/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestProject/UnitTestProject.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestProject/Usings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/run.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/src/FooCls.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/src/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHP/phpunit/tests/FooTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PYTHON/py/src/another.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PYTHON/py/src/foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PYTHON/py/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PYTHON/py/test/test_foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MojtabaTajik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MojtabaTajik/testQodana.git",
+    "accountId": "15202b63-330c-499a-b562-261a14552d26"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pUIqpBPhBKqgM0vEhuB3uFGb1e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7967b1e-302b-4ea5-b647-314a85b0ecfa" name="Changes" comment="" />
+      <created>1732814421845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732814421845</updated>
+      <workItem from="1732814423738" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
