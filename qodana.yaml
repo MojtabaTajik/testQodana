@@ -10,9 +10,6 @@ failureConditions:
     high: 0
     moderate: 0
     low: 0
-bootstrap: dotnet build; cd test/AI-Translations.Tests && \\
-  dotnet add package coverlet.msbuild && dotnet add package coverlet.collector && \\
-  ((dotnet test /p:CollectCoverage=true /p:CoverletOutput=test/AI-Translations.Tests/.qodana/code-coverage /p:CoverletOutputFormat=lcov))
 include:
   - name: NetCoverageInspection
   - name: VulnerableLibrariesGlobal
