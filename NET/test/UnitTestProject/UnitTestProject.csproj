@@ -17,8 +17,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\src\TestProject\QodanaCoverageTest.csproj" />
-      <ProjectReference Include="..\QodanaCoverageTest.csproj" />
-      <ProjectReference Include="..\TestProject\QodanaCoverageTest.csproj" />
     </ItemGroup>
 
 </Project>

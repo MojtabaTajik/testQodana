@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "40muuk4QotU=",
-  "success": false,
+  "dgSpecHash": "48jL7Vtv+P8=",
+  "success": true,
   "projectFilePath": "/Users/moji/RiderProjects/testQodana/NET/test/UnitTestProject/UnitTestProject.csproj",
   "expectedPackageFiles": [
     "/Users/moji/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
@@ -54,24 +54,6 @@
     "/Users/moji/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
     {
       "code": "NU1903",
       "level": "Warning",

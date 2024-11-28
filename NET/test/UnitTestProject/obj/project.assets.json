@@ -3908,8 +3908,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
-      "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
@@ -3945,12 +3943,6 @@
           "projectReferences": {
             "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj": {
               "projectPath": "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj"
-            },
-            "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj": {
-              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj"
-            },
-            "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj": {
-              "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj"
             }
           }
         }
@@ -4018,24 +4010,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
     {
       "code": "NU1903",
       "level": "Warning",

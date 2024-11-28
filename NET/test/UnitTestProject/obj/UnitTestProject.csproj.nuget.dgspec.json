@@ -98,12 +98,6 @@
             "projectReferences": {
               "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj": {
                 "projectPath": "/Users/moji/RiderProjects/testQodana/NET/src/TestProject/QodanaCoverageTest.csproj"
-              },
-              "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj": {
-                "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/QodanaCoverageTest.csproj"
-              },
-              "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj": {
-                "projectPath": "/Users/moji/RiderProjects/testQodana/NET/test/TestProject/QodanaCoverageTest.csproj"
               }
             }
           }
