@@ -24,23 +24,23 @@ jobs:
           dotnet-version: '7.0'
 
       - name: Add coverlet dependencies
-        working-directory: NET/UnitTestProject
+        working-directory: test/UnitTestProject
         run: |
           dotnet add package coverlet.msbuild; dotnet add package coverlet.collector
 
       - name: Build solution
-        working-directory: NET
+        working-directory: .
         run: dotnet build
 
       - name: Run tests with code coverage
         run: dotnet test /p:CollectCoverage=true /p:CoverletOutput=../.qodana/code-coverage/ /p:CoverletOutputFormat=lcov
-        working-directory: NET
+        working-directory: test/UnitTestProject
 
       - name: Archive coverage data
         uses: actions/upload-artifact@v4
         with:
           name: net-coverage-data
-          path: NET/.qodana/code-coverage
+          path: test/UnitTestProject/.qodana/code-coverage
 
       - name: Qodana Scan
         uses: JetBrains/qodana-action@main
