@@ -1,6 +1,72 @@
 version: "1.0"
-linter: jetbrains/qodana-dotnet:2024.2
-profile:
-  name: qodana.recommended
+linter: jetbrains/qodana-dotnet:latest
+dotnet:
+  solution: AI-Translations.sln
+fixesStrategy: cleanup
+failureConditions:
+  severityThresholds:
+    any: 0
+    critical: 0
+    high: 0
+    moderate: 0
+    low: 0
+bootstrap: dotnet build; cd test/AI-Translations.Tests && \\
+  dotnet add package coverlet.msbuild && dotnet add package coverlet.collector && \\
+  ((dotnet test /p:CollectCoverage=true /p:CoverletOutput=test/AI-Translations.Tests/.qodana/code-coverage /p:CoverletOutputFormat=lcov))
 include:
+  - name: NetCoverageInspection
+  - name: VulnerableLibrariesGlobal
+  - name: ConvertToPrimaryConstructor
+  - name: MemberCanBePrivate.Global
+  - name: RedundantStringInterpolation
+  - name: FieldCanBeMadeReadOnly.Local
+  - name: UseObjectOrCollectionInitializer
+  - name: ArrangeObjectCreationWhenTypeEvident
+  - name: ConvertIfStatementToConditionalTernaryExpression
+  - name: ConvertToCompoundAssignment
+  - name: MergeConditionalExpression
+  - name: MergeIntoPattern
+  - name: ReplaceWithSingleCallToFirstOrDefault
+  - name: UseCollectionCountProperty
+  - name: ArrangeNamespaceBody
+  - name: ArrangeThisQualifier
+  - name: RedundantEmptyObjectCreationArgumentList
+  - name: SuggestBaseTypeForParameter
+  - name: ParameterTypeCanBeEnumerable.Global
+  - name: ArrangeDefaultValueWhenTypeNotEvident
+  - name: ParameterTypeCanBeEnumerable.Local
+  - name: ConvertToConstant.Local
+  - name: RedundantLambdaSignatureParentheses
+  - name: MergeIntoLogicalPattern
+  - name: RedundantIfElseBlock
+  - name: SuggestVarOrType_BuiltInTypes
+  - name: CA1829
+  - name: CA2249
+  - name: ConvertIfStatementToReturnStatement
+  - name: ConvertIfStatementToSwitchStatement
+  - name: ConvertSwitchStatementToSwitchExpression
+  - name: InlineTemporaryVariable
+  - name: ReplaceSubstringWithRangeIndexer
+  - name: SuggestVarOrType_Elsewhere
+  - name: ConvertToLambdaExpression
+exclude:
+  - name: All
+    paths:
+      - test
   - name: CheckDependencyLicenses
+  - name: ConstantConditionalAccessQualifier
+  - name: UnusedAutoPropertyAccessor.Global
+  - name: CSharpWarnings__CS8618
+  - name: HeapView.ObjectAllocation.Evident
+  - name: HeapView.ObjectAllocation
+  - name: HeapView.DelegateAllocation
+  - name: HeapView.ClosureAllocation
+  - name: EntityFramework.ModelValidation.CircularDependency
+  - name: AutoPropertyCanBeMadeGetOnly.Global
+  - name: ArrangeTrailingCommaInMultilineLists
+  - name: SuggestBaseTypeForParameter
+  - name: UnusedTypeParameter
+  - name: SimplifyLinqExpressionUseAll
+  - name: ClassWithVirtualMembersNeverInherited.Global
+  - name: CSharpWarnings__CS8625
+  - name: EntityFramework.ModelValidation.UnlimitedStringLength
