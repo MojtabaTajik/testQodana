@@ -1,0 +1,6 @@
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.csproj.AssemblyReference.cache
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.AssemblyInfoInputs.cache
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.AssemblyInfo.cs
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.csproj.CoreCompileInputs.cache
+/Users/moji/RiderProjects/testQodana/NET/UnitTestProject/obj/Debug/net7.0/UnitTestProject.sourcelink.json
