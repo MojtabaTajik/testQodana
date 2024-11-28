@@ -24,28 +24,28 @@ jobs:
           dotnet-version: '7.0'
 
       - name: Add coverlet dependencies
-        working-directory: NET/coverlet/UnitTestProject
+        working-directory: NET/UnitTestProject
         run: |
           dotnet add package coverlet.msbuild; dotnet add package coverlet.collector
 
       - name: Build solution
-        working-directory: NET/coverlet
+        working-directory: NET
         run: dotnet build
 
       - name: Run tests with code coverage
         run: dotnet test /p:CollectCoverage=true /p:CoverletOutput=../.qodana/code-coverage/ /p:CoverletOutputFormat=lcov
-        working-directory: NET/coverlet
+        working-directory: NET
 
       - name: Archive coverage data
         uses: actions/upload-artifact@v4
         with:
           name: net-coverage-data
-          path: NET/coverlet/.qodana/code-coverage
+          path: NET/.qodana/code-coverage
 
       - name: Qodana Scan
         uses: JetBrains/qodana-action@main
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
         with:
-          args: "-i,NET/coverlet,--linter,jetbrains/qodana-dotnet:latest"
+          args: "--linter,jetbrains/qodana-dotnet:latest"
           pr-mode: false
