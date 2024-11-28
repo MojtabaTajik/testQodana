@@ -46,6 +46,3 @@ jobs:
         uses: JetBrains/qodana-action@main
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
-        with:
-          args: "-i,NET,--linter,jetbrains/qodana-dotnet:latest"
-          pr-mode: false
