@@ -47,5 +47,4 @@ jobs:
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
         with:
-          args: "--linter,jetbrains/qodana-dotnet:latest"
           pr-mode: false
