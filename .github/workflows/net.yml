@@ -62,5 +62,4 @@ jobs:
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
         with:
-          pr-mode: $pr_mode
-    
+          pr-mode: ${{ env.pr_mode }}    
