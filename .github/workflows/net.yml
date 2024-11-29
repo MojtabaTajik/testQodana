@@ -50,9 +50,13 @@ jobs:
           else
             echo "pr-mode=true" >> $GITHUB_ENV
           fi
-
+          
+          # Load the updated environment
           source $GITHUB_ENV
-          echo "PR Mode is: $pr-mode"
+          
+          # Print the value correctly
+          echo "PR Mode is: ${pr-mode}"
+
           
       - name: Qodana Scan
         uses: JetBrains/qodana-action@main
