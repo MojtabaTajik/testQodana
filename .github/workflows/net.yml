@@ -45,7 +45,7 @@ jobs:
       - name: Determine PR Mode
         id: pr-mode
         run: |
-          if [[ "develop" == "develop" || "develop" == "main" ]]; then
+          if [[ "$GITHUB_REF_NAME" == "develop" || "$GITHUB_REF_NAME" == "main" ]]; then
             echo "pr_mode=false" >> $GITHUB_ENV
           else
             echo "pr_mode=true" >> $GITHUB_ENV
