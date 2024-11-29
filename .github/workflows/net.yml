@@ -42,6 +42,18 @@ jobs:
           name: net-coverage-data
           path: .qodana/code-coverage
 
+      - name: Determine PR Mode
+        id: pr-mode
+        run: |
+          if [[ "develop" == "develop" || "develop" == "main" ]]; then
+            echo "pr-mode=false" >> $GITHUB_ENV
+          else
+            echo "pr-mode=true" >> $GITHUB_ENV
+          fi
+
+          source $GITHUB_ENV
+          echo "PR Mode is: $pr-mode"
+          
       - name: Qodana Scan
         uses: JetBrains/qodana-action@main
         env:
