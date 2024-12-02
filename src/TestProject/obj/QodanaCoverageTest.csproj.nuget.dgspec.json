@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moji/RiderProjects/testQodana/src/TestProject/QodanaCoverageTest.csproj": {}
+    "C:\\Users\\MojtabaTajik\\RiderProjects\\testQodana\\src\\TestProject\\QodanaCoverageTest.csproj": {}
   },
   "projects": {
-    "/Users/moji/RiderProjects/testQodana/src/TestProject/QodanaCoverageTest.csproj": {
+    "C:\\Users\\MojtabaTajik\\RiderProjects\\testQodana\\src\\TestProject\\QodanaCoverageTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moji/RiderProjects/testQodana/src/TestProject/QodanaCoverageTest.csproj",
+        "projectUniqueName": "C:\\Users\\MojtabaTajik\\RiderProjects\\testQodana\\src\\TestProject\\QodanaCoverageTest.csproj",
         "projectName": "QodanaCoverageTest",
-        "projectPath": "/Users/moji/RiderProjects/testQodana/src/TestProject/QodanaCoverageTest.csproj",
-        "packagesPath": "/Users/moji/.nuget/packages/",
-        "outputPath": "/Users/moji/RiderProjects/testQodana/src/TestProject/obj/",
+        "projectPath": "C:\\Users\\MojtabaTajik\\RiderProjects\\testQodana\\src\\TestProject\\QodanaCoverageTest.csproj",
+        "packagesPath": "C:\\Users\\MojtabaTajik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MojtabaTajik\\RiderProjects\\testQodana\\src\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/moji/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MojtabaTajik\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -62,6 +62,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

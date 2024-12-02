@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QodanaCoverageTest", "src\TestProject\QodanaCoverageTest.csproj", "{DE655B7A-48C9-494E-85C0-B7BD6F046599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "test\UnitTestProject\UnitTestProject.csproj", "{F5EED067-8575-41A4-8759-DA3A2F25CBE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Test", "test\Project.Test\Project.Test.csproj", "{2B5A68F4-9293-4FDC-9513-F8824FD5FF53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{DE655B7A-48C9-494E-85C0-B7BD6F046599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE655B7A-48C9-494E-85C0-B7BD6F046599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE655B7A-48C9-494E-85C0-B7BD6F046599}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5EED067-8575-41A4-8759-DA3A2F25CBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5EED067-8575-41A4-8759-DA3A2F25CBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5EED067-8575-41A4-8759-DA3A2F25CBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5EED067-8575-41A4-8759-DA3A2F25CBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5A68F4-9293-4FDC-9513-F8824FD5FF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5A68F4-9293-4FDC-9513-F8824FD5FF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5A68F4-9293-4FDC-9513-F8824FD5FF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5A68F4-9293-4FDC-9513-F8824FD5FF53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

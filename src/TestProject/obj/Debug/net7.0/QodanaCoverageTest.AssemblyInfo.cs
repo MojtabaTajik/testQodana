@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QodanaCoverageTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28e2c63233b44013297df573742072c6f36b1db1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0510cb0409af9e852f53e4e00bd44c48331d62b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("QodanaCoverageTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QodanaCoverageTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

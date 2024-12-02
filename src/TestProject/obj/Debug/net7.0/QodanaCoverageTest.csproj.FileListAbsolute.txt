@@ -10,3 +10,15 @@
 /Users/moji/RiderProjects/testQodana/NET/src/TestProject/obj/Debug/net7.0/refint/QodanaCoverageTest.dll
 /Users/moji/RiderProjects/testQodana/NET/src/TestProject/obj/Debug/net7.0/QodanaCoverageTest.pdb
 /Users/moji/RiderProjects/testQodana/NET/src/TestProject/obj/Debug/net7.0/ref/QodanaCoverageTest.dll
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\bin\Debug\net7.0\QodanaCoverageTest.deps.json
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\bin\Debug\net7.0\QodanaCoverageTest.dll
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\bin\Debug\net7.0\QodanaCoverageTest.pdb
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.AssemblyInfoInputs.cache
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.AssemblyInfo.cs
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.csproj.CoreCompileInputs.cache
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.sourcelink.json
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.dll
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\refint\QodanaCoverageTest.dll
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\QodanaCoverageTest.pdb
+C:\Users\MojtabaTajik\RiderProjects\testQodana\src\TestProject\obj\Debug\net7.0\ref\QodanaCoverageTest.dll
